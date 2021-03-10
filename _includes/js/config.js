@@ -9,7 +9,7 @@ var siteConfig = {
    		{
         "type":"in",
         "key": "countryCode",
-        "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN"]
+        "values": ["CN"]
       },
       {
         "type": "equals",
